@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-11T16:39:51 CLST" name="Default suite" finished-at="2020-12-11T16:43:21 CLST" duration-ms="209713">
+    <groups>
+    </groups>
+    <test started-at="2020-12-11T16:39:51 CLST" name="Default test" finished-at="2020-12-11T16:43:21 CLST" duration-ms="209713">
+      <class name="pruebas.CheckLinks">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pruebas.CheckLinks@55b53d44]" started-at="2020-12-11T16:39:51 CLST" name="beforeClass" finished-at="2020-12-11T16:40:05 CLST" duration-ms="13556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="check()[pri:0, instance:pruebas.CheckLinks@55b53d44]" started-at="2020-12-11T16:40:05 CLST" name="check" finished-at="2020-12-11T16:43:21 CLST" duration-ms="196054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pruebas.CheckLinks@55b53d44]" started-at="2020-12-11T16:43:21 CLST" name="afterClass" finished-at="2020-12-11T16:43:21 CLST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pruebas.CheckLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
